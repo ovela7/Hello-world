@@ -1,2 +1,2 @@
 # Hello-world
-Beginning in GitHun
+Beginning in GitHub
